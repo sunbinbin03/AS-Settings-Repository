@@ -1,0 +1,30 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1404" y="806" />
+    <location key="#PSD.0.0.2880.1800@192dpi" x="366" y="70" />
+    <location key="GitCloneDialog.0.0.2880.1800@192dpi" x="916" y="714" />
+    <location key="svn.repositoryBrowser.0.0.2880.1800@192dpi" x="1116" y="456" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="346" y="88" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="776" y="532" />
+    <location key="search.everywhere.popup.0.0.2880.1800@192dpi" x="770" y="356" />
+    <location key="RollbackChangesDialog.0.0.2880.1800@192dpi" x="1034" y="274" />
+    <location key="MultipleFileMergeDialog.0.0.2880.1800@192dpi" x="774" y="276" />
+    <location key="MergeDialog.0.0.2880.1800@192dpi" x="222" y="108" />
+    <location key="VCS.ChangeListViewerDialog.0.0.2880.1800@192dpi" x="1026" y="260" />
+    <location key="IDE.errors.dialog.0.0.2880.1800@192dpi" x="622" y="314" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2880.1800@192dpi" x="978" y="638" />
+    <location key="CommitChangelistDialog2.0.0.2880.1800@192dpi" x="216" y="46" />
+    <location key="Vcs.Push.Dialog.0.0.2880.1800@192dpi" x="814" y="266" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="754" y="180" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2880.1800@192dpi" x="1022" y="270" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2880.1800@192dpi" x="916" y="424" />
+    <size key="search.everywhere.popup.0.0.2880.1800@192dpi" width="1340" height="1352" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2710" height="236" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2710" height="236" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2710" height="236" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2710" height="236" />
+    <size key="MergeDialog.0.0.2880.1800@192dpi" width="2520" height="1438" />
+    <size key="CommitChangelistDialog2.0.0.2880.1800@192dpi" width="2308" height="1576" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1296" height="1314" />
+  </component>
+</application>
